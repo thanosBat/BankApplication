@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class testAccount {
+public class TestAccount {
 	
 	Account account = new Account(12345, 500.32);
 

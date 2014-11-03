@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class testClient {
+public class TestClient {
 
 	Client client = new Client("JS12345");
 	
